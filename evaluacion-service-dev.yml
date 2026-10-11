@@ -1,0 +1,8 @@
+fintech:
+  scoring-minimo-aprobacion: 650
+  factor-endeudamiento-max: 0.40
+  mensaje-riesgos: Servicio de Evaluacion de Riesgos Fintech - Grupo 03
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/fintech_riesgos_db
